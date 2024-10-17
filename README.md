@@ -1,12 +1,8 @@
 # **WeatherDG**
 **LLM-assisted Procedural Weather Generation for Domain-Generalized Semantic Segmentation**
 
-[![Project Page](https://img.shields.io/badge/Project-Page-yellow)](https://jumponthemoon.github.io/WeatherDG.github.io/)
-[![arXiv Paper](https://img.shields.io/badge/arXiv-Paper-blue)](https://arxiv.org/pdf/2410.12075)
 
-
-
-WeatherDG is a framework for domain generalized semantic segmentation, which can generate realistic and diverse autonomous driving scene images and improve semantic segmentation performance under adverse conditions such as snow, rain, fog, and low-light environments.
+WeatherDG is for domain generalized semantic segmentation, which can generate realistic and diverse autonomous driving scene images and improve semantic segmentation performance under adverse conditions such as snow, rain, fog, and low-light environments.
 
 ![suppl_img_snowy](https://github.com/user-attachments/assets/7a4b99ac-c0e5-4b52-b30b-10a6cfe51488)
 
@@ -39,24 +35,3 @@ WeatherDG is a framework for domain generalized semantic segmentation, which can
 
 ## **Acknowledgements**
 The training and inference codebase are based on [DATUM](https://github.com/yasserben/DATUM) and [DatasetDiffuson](https://github.com/VinAIResearch/Dataset-Diffusion). We greatly appreciate the authors for their outstanding contributions.
-
-## **Citation**
-If you find this work useful, please cite:
-```bibtex
-@misc{qian2024weatherdg,
-  title={WeatherDG: LLM-assisted Procedural Weather Generation for Domain-Generalized Semantic Segmentation}, 
-  author={Chenghao Qian and Yuhu Guo and Yuhong Mo and Wenjing Li},
-  year={2024},
-  eprint={2410.12075},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2410.12075}, 
-}
-
-```
-
-
-
-
-
-
